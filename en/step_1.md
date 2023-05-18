@@ -1,59 +1,15 @@
-## Introduction
+Right-click on **Persp** in the Scene gizmo and choose 'Top' to switch to top-down view:
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+![The Persp menu is selected with the 'Top' option highlighted.](images/persp-top.png)
 
-### What you will make
+You should now see your project from the top view. 
 
---- no-print ---
-Add instructions for interacting with the embedded content here.
+![The Scene view with plane and cube viewed from a top down angle.](images/top-view.png)
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
+You can also choose to view it from the 'Right': 
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+![The Scene view with plane and cube viewed from a top down angle.](images/right-view.png)
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
+There is also; 'Left', 'Front' and 'Back'.
 
-+ A computer or tablet capable of running Scratch 3
-
-### Software
-
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
-
-### Downloads
-
-+ Download the project [starter file](https://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
-
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
----
-
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-You can download the completed project [here](https://rpf.io/p/en/projectName-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
-
---- /collapse ---
+Viewing your scene from different angles allows you to place objects more precisely. Make sure to change view regularly to check the position of your objects. 

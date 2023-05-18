@@ -1,11 +1,9 @@
-title: default-project-template
+title: unity-scene-gizmo
 hero_image: images/banner.png
-description: default-project-template description
-version: 4
+description: Use the scene gizmo to change the view
+version: 1
 listed: false
 copyedit: false
 last_tested: "2022-05-19"
 steps:
-  - title: Introduction
-  - title: Step title
-  - title: What next?
+  - title: Use the scene gizmo to change the view
